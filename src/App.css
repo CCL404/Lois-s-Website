@@ -1,0 +1,6 @@
+/* Custom Fonts*/
+
+@font-face {
+    font-family: Centra;
+    src: url('./assets/font/')
+}
